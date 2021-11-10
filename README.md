@@ -1,5 +1,5 @@
 # kaykommerce
-An eCommerce app using ASOS.com API for KAYKO.
+An eCommerce app using ASOS.com API.
 
 ## Requirements
 - Make sure you have Flutter SDK 2.12.0 and over
